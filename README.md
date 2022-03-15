@@ -1,4 +1,4 @@
-# PHASE-A-_Enhancement-of-the-K-mismatch-search-algorithm-Via-tree-data-structures
+# PHASE-A_Enhancement-of-the-K-mismatch-search-algorithm-Via-tree-data-structures
 This is the first phase of my final year projcet,This project is mine and my partner Sameer Kandeel.<br />
 Our Project is Enhancement of the K-mismatch search algorithm Via tree data-structures.<br />
 Our approach is based on the basic k-mismatch algorithm but with a major difference in the task of mapping/indexing the text (after building the MCS).<br />
