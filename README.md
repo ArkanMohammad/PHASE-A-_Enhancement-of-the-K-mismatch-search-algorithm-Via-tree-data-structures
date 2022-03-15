@@ -7,6 +7,6 @@ The idea is building a data-structure that can map all the words from all the co
 <img src="final year project.jpg" alt="drawing" width="300"/>
 
 ***for more info*** :<br />
-- our project book **Capstone Project Phase A - Book.docx** ***OR*** **Capstone Project Phase A - Book.pdf** that contains all of about our project.
+- our project book **Capstone Project Phase A - Book.docx** *OR* **Capstone Project Phase A - Book.pdf** that contains all of about our project.
 - our project presentaion **Capstone Project Phase A - Presentation.pptx** that explains the project briefly.
 
